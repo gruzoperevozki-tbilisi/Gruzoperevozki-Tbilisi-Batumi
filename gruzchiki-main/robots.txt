@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://gruzoperevozki-tbilisi.github.io/gruzchiki/sitemap.xml
